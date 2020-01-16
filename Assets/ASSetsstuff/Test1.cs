@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Test1 : MonoBehaviour
 {
-
+    // Dræb mig
 public float speed; 
 public int Dob; 
 public int i;
