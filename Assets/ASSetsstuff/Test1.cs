@@ -10,7 +10,7 @@ public int Dob;
 public int i;
 //Rigidbody RB;
 
-
+//fucker s suck dick
     // Start is called before the first frame update
     void Start()
     {
